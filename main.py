@@ -6,7 +6,6 @@ def display_student(name, course, year):
     print("Course:", course)
     print("Year:", year)
 
-
 student_name = "Juan Dela Cruz"
 student_course = "BS Computer Science"
 student_year = 2
@@ -16,4 +15,5 @@ display_student(
     student_course,
     student_year
 )
+
 
