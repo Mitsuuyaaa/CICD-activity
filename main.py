@@ -1,4 +1,3 @@
-
 def display_student(name, course, year):
     print("STUDENT INFORMATION")
     print("-------------------")
@@ -15,5 +14,3 @@ display_student(
     student_course,
     student_year
 )
-
-
